@@ -3,6 +3,13 @@
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
+<p>
+在你的 README 中展示动态生成的 GitHub 统计信息。使用简单、样式多样，使用方法：
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=521xueweihan)](https://github.com/anuraghazra/github-readme-stats)
+
+替换“521xueweihan”为你的 GitHub 用户名
+</p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
